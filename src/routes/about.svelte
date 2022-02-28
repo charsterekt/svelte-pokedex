@@ -10,4 +10,4 @@
     About
 </h1>
 <p class="text-xl">A SvelteKit Pokédex that uses the Poké API.</p>
-<a href="https://github.com/charsterekt" class="text-lg">Check out the <span class="text-red-500">Github</span>.</a>
+<a href="https://github.com/charsterekt/svelte-pokedex" class="text-lg">Check out the <span class="text-red-500">Github</span>.</a>
