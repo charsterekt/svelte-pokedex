@@ -9,9 +9,5 @@
 <h1 class="text-4xl text-center my-8 uppercase">
     About
 </h1>
-<p>A SvelteKit Pokédex that uses the Poké API.</p>
-
-
-<style>
-
-</style>
+<p class="text-xl">A SvelteKit Pokédex that uses the Poké API.</p>
+<a href="https://github.com/charsterekt" class="text-lg">Check out the <span class="text-red-500">Github</span>.</a>
