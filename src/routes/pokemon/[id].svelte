@@ -31,5 +31,5 @@
         Height: <strong>{pokemon.height}</strong> |
         Weight: <strong>{pokemon.weight}</strong>
     </p>
-    <img class="card-image" src="{pokemon.sprites['front_default']}" alt={pokemon.name} />
+    <img class="card-image h-40 w-40" src="{pokemon.sprites['front_default']}" alt={pokemon.name} />
 </div>
